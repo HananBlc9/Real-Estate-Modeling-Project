@@ -1,0 +1,133 @@
+city,county,exteriorConstruction,floorSizeValue,hvacTypes,lotSizeValue,lotSizeUnit,mostRecentPriceAmount,mostRecentPricePerSquareFoot,mostRecentStatus,mlsNumber,neighborhoods,numBathroom,numBedroom,numFloor,numParkingSpaces,parking,parkingTypes,prices,propertyType,province,roofing,sewerType,yearBuilt
+Gilbert,Pinal,Wood,2515,Central,0.41,Square Feet,405073,165.21,Sold,6787749,Old Town,2,5,1,2,Street,Detached,Fixed,Duplex,AZ,Shingle,None,1955
+Chandler,Pinal,Stucco,4654,Forced Air,0.76,Square Feet,227309,376.74,Pending,2661793,Hills,4,5,2,2,Garage,None,Fixed,Condo,NY,Shingle,Public,1988
+Tempe,Navajo,Concrete,3291,Forced Air,0.42,Acres,429588,316.83,Sold,7576651,Downtown,3,2,2,1,Carport,Covered,Negotiable,Apartment,TX,Metal,Public,2001
+Scottsdale,Yavapai,Brick,3460,Window Units,0.84,Square Feet,763927,96.0,Contingent,7867218,Suburbia,2,3,2,2,Garage,None,Negotiable,Single Family,TX,Tile,Septic,1972
+Gilbert,Pima,Stucco,3924,Window Units,0.59,Square Feet,988266,463.44,Pending,8466027,Uptown,2,5,2,3,Street,None,Fixed,Apartment,AZ,Shingle,Septic,1999
+Surprise,Pima,Wood,3851,Window Units,0.11,Acres,564008,405.54,Sold,5987696,Suburbia,2,1,2,1,None,Covered,Negotiable,Duplex,NY,Slate,Septic,1992
+Mesa,Coconino,Brick,804,Forced Air,0.08,Square Feet,820801,60.36,Sold,1428988,Suburbia,4,5,1,3,None,Detached,Negotiable,Apartment,FL,Metal,Septic,1968
+Gilbert,Navajo,Stucco,1676,None,0.18,Acres,446699,343.12,Active,5084752,Lakeside,3,2,2,2,Street,Attached,Negotiable,Apartment,NY,Metal,None,2018
+Tempe,Maricopa,Concrete,1791,Forced Air,0.06,Square Feet,435842,397.06,Sold,5374857,Hills,1,2,2,3,Street,Detached,Negotiable,Apartment,CA,Shingle,None,2000
+Scottsdale,Coconino,Stucco,4942,None,0.12,Acres,486594,218.5,Pending,3977590,Uptown,4,3,2,1,None,Covered,Fixed,Duplex,WA,Tile,None,1960
+Chandler,Navajo,Concrete,1435,None,0.71,Acres,872608,81.01,Pending,8599600,Suburbia,4,5,2,0,Garage,None,Negotiable,Apartment,FL,Slate,Septic,1961
+Tempe,Yavapai,Wood,2493,Window Units,0.56,Square Feet,760775,84.79,Active,7610734,Uptown,3,1,2,3,Garage,Detached,Negotiable,Condo,TX,Tile,Septic,1957
+Tempe,Yavapai,Concrete,2482,Heat Pump,0.76,Square Feet,791519,96.91,Pending,4297291,Downtown,3,1,1,3,Street,Attached,Fixed,Duplex,FL,Flat,Septic,1973
+Mesa,Yavapai,Brick,919,Central,0.92,Square Feet,143925,428.2,Contingent,5894287,Lakeside,4,4,1,1,Garage,Covered,Fixed,Apartment,TX,Flat,None,1990
+Glendale,Yavapai,Wood,1630,Window Units,0.61,Square Feet,237023,459.81,Pending,8954647,Downtown,1,1,1,1,None,Detached,Negotiable,Duplex,TX,Shingle,Septic,1985
+Scottsdale,Yavapai,Brick,4475,Window Units,0.74,Square Feet,187388,105.26,Pending,3490706,Uptown,4,3,2,3,Garage,Attached,Fixed,Townhouse,FL,Shingle,Public,2021
+Tucson,Navajo,Stone,2169,Heat Pump,0.77,Acres,632295,156.16,Sold,8542535,West End,3,3,1,2,Street,Covered,Negotiable,Condo,TX,Shingle,Public,2004
+Tempe,Navajo,Vinyl,1540,Central,0.41,Square Feet,357802,124.48,Sold,9047252,Uptown,1,1,1,3,None,Attached,Negotiable,Apartment,TX,Flat,Septic,1958
+Glendale,Pinal,Concrete,916,Forced Air,0.28,Acres,535048,133.84,Pending,6254224,Hills,3,1,2,1,Garage,Covered,Fixed,Townhouse,CA,Tile,Public,1996
+Tucson,Pima,Vinyl,3638,Forced Air,0.24,Acres,158596,426.87,Active,7215140,Suburbia,1,4,2,0,Carport,None,Negotiable,Townhouse,NY,Tile,Public,1964
+Scottsdale,Yavapai,Vinyl,1950,Window Units,0.29,Square Feet,451005,199.47,Sold,4737973,Suburbia,2,1,2,0,None,Detached,Negotiable,Duplex,NY,Shingle,None,1997
+Phoenix,Maricopa,Concrete,2731,Central,0.31,Acres,879554,190.15,Active,3202575,Downtown,3,4,1,2,None,Attached,Negotiable,Townhouse,WA,Slate,Septic,1991
+Surprise,Navajo,Wood,1812,Window Units,0.25,Acres,973172,152.33,Pending,7611653,Lakeside,3,4,1,3,Carport,Covered,Negotiable,Condo,WA,Tile,Septic,2009
+Glendale,Maricopa,Stone,2464,None,0.88,Acres,639812,323.55,Pending,1464071,West End,4,1,2,0,Carport,Attached,Fixed,Condo,CA,Flat,None,2019
+Peoria,Maricopa,Brick,1881,Window Units,0.77,Acres,622244,220.69,Contingent,5381137,Old Town,3,2,2,3,None,Attached,Fixed,Single Family,WA,Metal,Public,1961
+Phoenix,Maricopa,Stucco,1312,Window Units,0.09,Square Feet,512498,384.91,Sold,5912216,Suburbia,3,2,1,1,Carport,Detached,Negotiable,Condo,FL,Metal,Public,1951
+Surprise,Pinal,Brick,3649,Forced Air,0.31,Acres,779290,142.51,Pending,8597626,Hills,2,4,1,0,Street,None,Fixed,Townhouse,AZ,Metal,Septic,1956
+Mesa,Navajo,Stucco,1359,Forced Air,0.07,Square Feet,599097,404.51,Contingent,4498472,Downtown,3,1,2,2,Street,Attached,Negotiable,Condo,AZ,Slate,Public,1952
+Gilbert,Maricopa,Brick,4472,Forced Air,0.52,Square Feet,749789,321.67,Sold,9369689,Downtown,2,2,2,1,Street,Covered,Negotiable,Duplex,AZ,Shingle,None,1952
+Chandler,Yavapai,Concrete,4143,None,0.5,Acres,907043,101.42,Pending,2564718,Old Town,2,1,1,2,None,Covered,Negotiable,Single Family,CA,Flat,None,1976
+Peoria,Coconino,Stone,4870,Forced Air,0.84,Square Feet,248056,236.53,Pending,6139743,Hills,2,1,2,1,Carport,None,Negotiable,Townhouse,CA,Slate,Septic,1989
+Mesa,Maricopa,Stucco,2270,Central,0.34,Square Feet,114060,438.58,Sold,4813270,Lakeside,2,1,1,0,Carport,Covered,Negotiable,Single Family,TX,Flat,None,1982
+Scottsdale,Pinal,Wood,1380,Heat Pump,0.83,Square Feet,838345,465.33,Sold,5806425,Hills,1,5,1,2,Garage,None,Fixed,Townhouse,AZ,Flat,None,1950
+Mesa,Navajo,Brick,3094,Central,0.97,Acres,577272,259.57,Sold,7609876,Lakeside,4,1,1,2,Garage,Covered,Negotiable,Duplex,FL,Shingle,Septic,1957
+Gilbert,Pinal,Brick,3947,Central,0.13,Square Feet,618545,266.38,Pending,3378837,Hills,1,5,1,1,Carport,Detached,Fixed,Single Family,WA,Metal,None,1981
+Scottsdale,Maricopa,Stucco,2479,Forced Air,0.8,Square Feet,929735,463.3,Pending,7123769,Hills,3,4,2,2,Carport,Attached,Fixed,Apartment,FL,Shingle,None,1997
+Peoria,Navajo,Wood,4306,Heat Pump,0.61,Square Feet,290279,314.18,Contingent,2524102,Uptown,1,2,2,1,Carport,Detached,Negotiable,Townhouse,WA,Slate,None,1953
+Gilbert,Coconino,Wood,3544,Heat Pump,0.51,Acres,830406,64.78,Active,3383366,Downtown,1,2,1,1,None,Attached,Negotiable,Apartment,AZ,Slate,Public,2019
+Tucson,Maricopa,Concrete,4156,Heat Pump,0.45,Square Feet,784647,460.74,Sold,3035848,Hills,3,2,1,1,Carport,Attached,Negotiable,Single Family,AZ,Slate,Septic,1968
+Chandler,Pinal,Concrete,4845,None,0.8,Acres,139711,161.7,Pending,6122930,Old Town,3,2,1,1,Garage,Attached,Negotiable,Apartment,AZ,Shingle,Septic,1981
+Peoria,Pima,Concrete,2043,Forced Air,0.66,Acres,243026,309.93,Pending,9593223,Hills,3,2,1,0,None,Detached,Negotiable,Apartment,CA,Flat,Septic,1958
+Tucson,Yavapai,Concrete,3918,Heat Pump,0.81,Acres,435484,124.48,Sold,7691409,Suburbia,1,2,1,1,Carport,Attached,Fixed,Single Family,WA,Flat,Public,1961
+Surprise,Pinal,Concrete,2941,None,0.91,Acres,565317,65.25,Active,1838003,Downtown,1,2,2,3,Garage,Detached,Negotiable,Duplex,CA,Tile,Public,1960
+Peoria,Navajo,Concrete,3859,Window Units,0.64,Acres,318134,190.16,Sold,4433382,Suburbia,3,4,2,2,None,None,Negotiable,Apartment,CA,Slate,Septic,1995
+Surprise,Maricopa,Stone,3759,Window Units,0.98,Acres,202974,401.22,Active,9670178,Downtown,4,1,2,3,Carport,Covered,Fixed,Apartment,NY,Flat,Public,1965
+Scottsdale,Yavapai,Wood,3065,None,0.63,Square Feet,249646,174.91,Pending,4395049,Suburbia,4,3,2,0,Carport,Covered,Fixed,Duplex,FL,Tile,Septic,1950
+Tucson,Maricopa,Concrete,3279,None,0.65,Acres,502400,149.04,Active,1066150,Hills,2,5,1,3,Carport,Attached,Negotiable,Apartment,FL,Flat,Public,2012
+Chandler,Navajo,Wood,2435,Forced Air,0.58,Square Feet,250168,145.71,Contingent,8951632,Hills,3,3,1,2,None,Detached,Fixed,Apartment,TX,Slate,None,1970
+Gilbert,Maricopa,Wood,2557,Forced Air,0.14,Square Feet,692016,281.83,Pending,8429645,Uptown,2,3,1,3,Garage,Covered,Negotiable,Apartment,CA,Metal,None,1979
+Tempe,Pima,Vinyl,2870,Window Units,0.74,Acres,789376,488.99,Contingent,7081687,Old Town,4,1,1,0,Garage,Detached,Fixed,Condo,WA,Slate,Septic,1962
+Mesa,Yavapai,Stone,3649,Heat Pump,0.57,Square Feet,635534,256.55,Sold,9948331,Suburbia,2,1,1,1,Street,Detached,Fixed,Duplex,NY,Shingle,Public,1983
+Phoenix,Yavapai,Concrete,4051,Window Units,0.48,Square Feet,538774,300.79,Sold,3547500,Lakeside,3,1,2,3,Carport,Attached,Negotiable,Apartment,NY,Flat,Public,1953
+Chandler,Navajo,Brick,4530,Heat Pump,0.91,Square Feet,611937,437.28,Sold,5193060,Uptown,3,2,1,0,Street,Covered,Fixed,Duplex,FL,Flat,None,1977
+Tucson,Pima,Stucco,3289,Heat Pump,0.33,Square Feet,511597,290.78,Active,1134055,Suburbia,3,4,2,0,Street,Attached,Fixed,Townhouse,CA,Shingle,None,2008
+Tempe,Pinal,Brick,2431,Forced Air,0.55,Acres,192263,133.01,Pending,2841648,Suburbia,1,2,2,2,Garage,Attached,Fixed,Townhouse,TX,Shingle,Public,1976
+Chandler,Maricopa,Stone,3616,Central,0.71,Square Feet,635590,184.82,Sold,8132508,Uptown,2,4,2,2,None,Covered,Fixed,Apartment,CA,Metal,Public,2018
+Tucson,Coconino,Stucco,1815,Central,0.81,Acres,953938,189.47,Sold,7437845,Hills,4,4,2,3,None,Covered,Fixed,Duplex,AZ,Flat,Public,1974
+Glendale,Maricopa,Stone,2148,None,0.49,Square Feet,665445,228.79,Pending,4828433,Suburbia,4,3,1,1,Garage,None,Fixed,Duplex,CA,Flat,Public,1952
+Glendale,Maricopa,Wood,3887,Forced Air,0.85,Square Feet,679205,242.06,Sold,3735264,Hills,4,3,2,0,None,None,Negotiable,Duplex,AZ,Metal,Public,2017
+Surprise,Pinal,Stucco,3639,Heat Pump,0.78,Acres,323810,409.9,Contingent,5448748,Uptown,1,4,2,3,Street,Detached,Negotiable,Condo,AZ,Tile,Public,1974
+Chandler,Maricopa,Wood,1135,Central,0.11,Square Feet,196646,207.22,Pending,8152747,Hills,1,4,2,0,Carport,Covered,Fixed,Townhouse,TX,Metal,Septic,1969
+Glendale,Pima,Brick,1695,Heat Pump,0.09,Square Feet,445266,260.7,Pending,5137270,Downtown,3,2,1,0,Garage,None,Negotiable,Duplex,WA,Slate,Public,1983
+Tucson,Pima,Brick,4346,Central,0.64,Square Feet,910951,331.24,Pending,5317922,Lakeside,4,2,1,1,Carport,Detached,Negotiable,Duplex,FL,Flat,None,1975
+Surprise,Yavapai,Stucco,1651,Central,0.38,Acres,590025,219.98,Contingent,9847905,West End,1,3,1,1,None,Detached,Negotiable,Condo,CA,Shingle,Septic,1954
+Tucson,Navajo,Stucco,2487,Central,0.25,Square Feet,580703,426.45,Pending,8465373,Suburbia,3,1,2,3,Carport,Detached,Fixed,Condo,AZ,Slate,Public,2010
+Surprise,Coconino,Concrete,2731,Forced Air,0.6,Acres,443054,314.35,Contingent,2020154,Old Town,4,4,2,1,None,None,Negotiable,Duplex,CA,Flat,None,1958
+Chandler,Maricopa,Stone,4546,Window Units,0.37,Square Feet,957756,182.32,Pending,9070924,Lakeside,2,2,1,1,None,Covered,Fixed,Single Family,WA,Metal,Septic,1999
+Tempe,Maricopa,Concrete,3227,Heat Pump,0.56,Acres,367552,371.33,Active,7843532,West End,3,3,2,3,Street,Attached,Negotiable,Duplex,FL,Slate,None,1955
+Gilbert,Pinal,Stone,2368,Forced Air,0.49,Acres,159379,287.44,Sold,5945169,Hills,1,2,1,1,None,Detached,Fixed,Duplex,WA,Flat,Public,2009
+Peoria,Navajo,Concrete,4800,Forced Air,0.61,Square Feet,125053,290.51,Active,7733215,Suburbia,1,4,1,2,Street,None,Fixed,Condo,FL,Tile,Public,1993
+Tempe,Pima,Wood,3538,Forced Air,0.43,Square Feet,502662,266.49,Sold,9195810,Hills,3,4,2,0,Street,None,Negotiable,Condo,NY,Tile,Public,1960
+Scottsdale,Coconino,Stucco,4298,Forced Air,0.71,Acres,756282,273.66,Contingent,8904294,Downtown,3,5,2,0,Street,Attached,Negotiable,Duplex,FL,Shingle,Public,2015
+Tucson,Yavapai,Brick,4713,Forced Air,0.22,Acres,198723,394.41,Active,8185197,Uptown,1,1,2,0,Garage,Attached,Fixed,Duplex,TX,Flat,Septic,1996
+Scottsdale,Pima,Stone,1866,None,0.71,Square Feet,675644,96.34,Pending,9171548,Suburbia,2,5,2,0,Garage,None,Negotiable,Duplex,WA,Tile,Septic,2022
+Tempe,Navajo,Stone,3244,Heat Pump,0.44,Acres,372933,200.46,Sold,7714301,West End,4,3,1,3,None,Covered,Negotiable,Condo,AZ,Metal,None,1952
+Surprise,Yavapai,Brick,4907,Forced Air,0.88,Square Feet,984152,83.98,Sold,8969693,West End,2,2,1,0,Street,Attached,Negotiable,Duplex,NY,Flat,Public,1979
+Peoria,Pinal,Concrete,4173,Heat Pump,0.54,Square Feet,953088,388.96,Active,2859582,Downtown,3,3,1,0,Garage,None,Fixed,Duplex,TX,Metal,None,1970
+Peoria,Pinal,Stone,4769,None,0.97,Square Feet,930460,172.54,Contingent,8744064,Downtown,2,4,1,0,Street,Attached,Fixed,Apartment,CA,Metal,Septic,1977
+Phoenix,Maricopa,Wood,3346,None,0.62,Square Feet,950916,453.84,Active,3129885,Suburbia,1,5,1,0,Carport,Covered,Negotiable,Single Family,WA,Tile,Public,2011
+Peoria,Navajo,Stucco,1553,Heat Pump,0.26,Acres,132154,286.96,Contingent,5720642,Hills,3,5,2,2,Carport,Detached,Negotiable,Townhouse,AZ,Flat,Public,1982
+Gilbert,Coconino,Brick,2882,Central,0.83,Square Feet,313942,410.34,Contingent,1549239,Old Town,4,5,1,0,Carport,Attached,Negotiable,Single Family,FL,Slate,Septic,1984
+Peoria,Yavapai,Stucco,3574,Window Units,0.38,Acres,364480,490.52,Sold,9945309,West End,1,3,1,2,None,Covered,Fixed,Apartment,AZ,Tile,Septic,2001
+Tempe,Pima,Stone,3696,Central,0.38,Square Feet,465821,427.9,Active,6408753,West End,1,4,1,3,Street,None,Fixed,Townhouse,CA,Tile,Septic,1983
+Phoenix,Navajo,Stone,4985,Central,0.08,Acres,954211,440.15,Active,4047569,Downtown,4,2,2,1,Carport,Attached,Negotiable,Duplex,NY,Flat,Septic,1990
+Tempe,Navajo,Brick,1575,Central,0.57,Square Feet,381173,233.59,Contingent,1785332,Lakeside,4,2,2,0,Garage,Attached,Negotiable,Apartment,NY,Flat,Septic,2000
+Tempe,Pinal,Wood,2425,Forced Air,0.56,Acres,945633,298.28,Active,9555080,Downtown,2,3,2,1,Carport,None,Negotiable,Duplex,WA,Metal,Public,1996
+Mesa,Maricopa,Vinyl,3869,None,0.39,Acres,132265,164.25,Pending,1397710,Old Town,3,5,2,1,Carport,Detached,Negotiable,Condo,NY,Flat,Septic,2007
+Phoenix,Maricopa,Brick,1217,Central,0.9,Square Feet,465060,138.25,Pending,7503216,Hills,4,1,1,3,Carport,None,Negotiable,Apartment,WA,Metal,Public,2006
+Tempe,Yavapai,Vinyl,914,None,0.17,Square Feet,343322,277.48,Active,5317048,Hills,4,3,1,1,None,Attached,Negotiable,Condo,WA,Tile,Public,1972
+Mesa,Pinal,Concrete,1416,Heat Pump,0.36,Square Feet,274944,317.77,Active,4188729,Lakeside,3,3,2,2,Garage,None,Fixed,Apartment,WA,Shingle,Septic,1997
+Mesa,Navajo,Vinyl,4774,Window Units,0.36,Square Feet,670485,202.67,Contingent,5785956,West End,4,4,2,1,Street,Covered,Negotiable,Apartment,FL,Slate,Septic,1971
+Phoenix,Coconino,Wood,4067,Heat Pump,0.14,Acres,548396,306.25,Pending,6105724,Downtown,4,2,1,1,Garage,None,Fixed,Condo,TX,Tile,Public,1966
+Scottsdale,Pinal,Concrete,1625,Heat Pump,0.51,Square Feet,254782,449.36,Pending,6025764,Hills,2,3,1,1,Street,Attached,Negotiable,Townhouse,WA,Flat,Septic,2018
+Surprise,Yavapai,Vinyl,2316,Forced Air,0.7,Acres,784846,300.52,Sold,8996198,Old Town,1,3,2,0,None,None,Negotiable,Single Family,WA,Slate,Septic,1960
+Gilbert,Yavapai,Concrete,3946,Window Units,0.54,Acres,171907,374.37,Contingent,1910775,Suburbia,1,5,2,0,None,Detached,Fixed,Duplex,TX,Shingle,Septic,1964
+Surprise,Pinal,Vinyl,1212,Heat Pump,0.2,Square Feet,302967,412.39,Sold,6954878,Uptown,1,5,2,2,None,None,Fixed,Apartment,AZ,Shingle,None,1984
+Peoria,Yavapai,Wood,1528,Heat Pump,0.41,Acres,950867,494.93,Pending,6927997,Uptown,1,1,2,2,None,Detached,Fixed,Duplex,WA,Metal,Public,1982
+Gilbert,Pinal,Vinyl,4148,Window Units,0.05,Acres,402775,321.44,Contingent,1558924,Uptown,4,4,1,0,Street,Covered,Fixed,Condo,FL,Slate,None,1965
+Peoria,Pima,Vinyl,3608,Window Units,0.87,Acres,491182,413.08,Active,4881185,West End,3,1,1,2,Carport,Detached,Negotiable,Duplex,NY,Metal,Septic,1983
+Tempe,Pinal,Vinyl,1475,Heat Pump,0.13,Acres,856892,483.19,Contingent,6004998,Downtown,3,5,1,0,Street,None,Fixed,Condo,NY,Tile,None,2015
+Tucson,Pinal,Brick,4265,Window Units,0.62,Square Feet,382247,474.98,Active,6166650,Lakeside,2,2,2,3,Garage,Attached,Negotiable,Duplex,CA,Slate,Septic,1989
+Phoenix,Yavapai,Brick,3304,Heat Pump,0.99,Square Feet,164772,113.49,Active,6693075,Hills,2,5,2,1,None,Detached,Fixed,Single Family,CA,Tile,None,1977
+Gilbert,Yavapai,Brick,3767,Heat Pump,0.56,Square Feet,226108,232.88,Contingent,9109916,Suburbia,4,4,1,1,None,Covered,Negotiable,Single Family,NY,Metal,Septic,1996
+Gilbert,Maricopa,Wood,3586,Forced Air,0.93,Square Feet,114382,195.8,Active,6193278,Old Town,3,5,1,2,Garage,Detached,Negotiable,Single Family,NY,Slate,None,1988
+Tempe,Maricopa,Concrete,1922,Central,0.27,Acres,184291,89.12,Sold,1431413,Suburbia,3,4,1,0,Street,Detached,Negotiable,Single Family,FL,Metal,None,2019
+Scottsdale,Pima,Stone,4879,Heat Pump,0.77,Acres,463339,334.96,Pending,5165100,Old Town,1,4,1,0,Carport,Detached,Negotiable,Single Family,TX,Slate,None,2022
+Mesa,Maricopa,Vinyl,2371,None,0.55,Square Feet,759116,381.16,Active,1863561,West End,4,4,2,2,Carport,Covered,Negotiable,Single Family,CA,Metal,Public,1969
+Tempe,Pinal,Vinyl,2943,Central,0.73,Square Feet,382753,431.66,Sold,1302186,Downtown,4,4,1,0,Garage,None,Negotiable,Condo,TX,Shingle,None,1950
+Glendale,Yavapai,Wood,2487,Central,0.11,Square Feet,247550,105.25,Active,4207393,Uptown,1,4,1,3,Carport,Detached,Fixed,Apartment,FL,Metal,Public,2021
+Mesa,Maricopa,Vinyl,4932,Central,0.19,Acres,332050,444.4,Pending,6489464,Downtown,4,2,1,1,Street,Detached,Negotiable,Duplex,NY,Shingle,Septic,2012
+Phoenix,Maricopa,Brick,4651,Forced Air,0.18,Square Feet,532882,339.32,Sold,8456985,West End,4,1,1,2,Street,Attached,Fixed,Single Family,WA,Metal,None,2016
+Mesa,Pima,Stone,4240,Heat Pump,0.7,Square Feet,437827,366.78,Pending,7767528,Lakeside,2,3,1,2,Garage,Covered,Fixed,Condo,TX,Slate,Septic,1953
+Scottsdale,Navajo,Stucco,4566,Forced Air,0.85,Square Feet,592313,459.78,Pending,2026553,Lakeside,3,1,1,0,Street,Detached,Negotiable,Condo,NY,Slate,Septic,2007
+Mesa,Pima,Vinyl,3126,Heat Pump,0.76,Acres,486858,331.14,Sold,9533879,West End,4,4,1,2,None,Covered,Fixed,Condo,NY,Slate,None,1974
+Phoenix,Pinal,Brick,3714,Forced Air,0.08,Acres,754618,201.14,Sold,4743797,Old Town,2,2,2,3,Garage,Detached,Negotiable,Apartment,AZ,Flat,Public,1996
+Scottsdale,Yavapai,Stucco,4752,Forced Air,0.87,Acres,695603,421.3,Sold,2514542,Hills,3,5,2,0,Street,None,Fixed,Duplex,TX,Tile,None,1987
+Surprise,Pima,Stone,1395,None,0.39,Acres,964266,213.38,Contingent,7357718,Hills,1,2,2,0,Garage,None,Negotiable,Apartment,WA,Slate,Septic,1964
+Gilbert,Maricopa,Stucco,1528,Forced Air,0.43,Acres,488349,65.4,Sold,5180656,Old Town,2,4,2,0,Carport,Detached,Fixed,Townhouse,TX,Shingle,Septic,2012
+Gilbert,Yavapai,Brick,2165,Window Units,0.15,Acres,114153,423.79,Sold,9465506,Lakeside,2,2,1,0,Street,None,Negotiable,Condo,NY,Slate,None,1970
+Peoria,Yavapai,Concrete,1498,None,0.75,Acres,700613,205.34,Sold,7846192,Lakeside,3,2,2,3,None,Detached,Negotiable,Townhouse,WA,Flat,Public,2006
+Surprise,Maricopa,Concrete,1195,Forced Air,0.22,Acres,340773,398.23,Sold,9676924,Lakeside,1,4,2,0,Street,None,Negotiable,Single Family,FL,Shingle,Public,2002
+Surprise,Pima,Stucco,4971,Central,0.59,Square Feet,155318,213.24,Active,8347689,Downtown,2,2,1,2,Garage,Attached,Negotiable,Single Family,AZ,Flat,Septic,1995
+Mesa,Maricopa,Wood,3302,Window Units,0.85,Square Feet,494030,437.48,Contingent,2829553,Lakeside,4,3,1,3,Garage,Attached,Fixed,Apartment,NY,Shingle,Septic,1963
+Gilbert,Navajo,Stucco,2619,Window Units,0.13,Acres,477177,148.78,Pending,4041341,Suburbia,4,3,2,1,Street,Attached,Negotiable,Duplex,CA,Metal,Public,1966
+Phoenix,Yavapai,Vinyl,1517,Window Units,0.56,Acres,176077,488.55,Sold,2039504,Uptown,4,2,2,1,None,Covered,Fixed,Townhouse,CA,Tile,None,1988
+Chandler,Coconino,Vinyl,3582,None,0.27,Square Feet,976906,400.89,Active,7666455,Lakeside,1,5,1,2,None,Covered,Fixed,Duplex,AZ,Tile,Septic,1958
+Chandler,Coconino,Concrete,4377,Forced Air,0.38,Acres,233515,101.41,Active,8663589,Old Town,2,4,2,2,None,Attached,Fixed,Apartment,FL,Flat,Public,1955
+Scottsdale,Pinal,Wood,943,Forced Air,0.5,Acres,306988,304.6,Active,8918348,Uptown,4,3,1,3,Garage,Covered,Negotiable,Single Family,NY,Tile,Septic,1972
+Gilbert,Maricopa,Brick,3940,Central,0.39,Acres,959751,493.42,Pending,5988023,Downtown,1,5,1,1,Street,None,Fixed,Duplex,TX,Flat,None,2008
+Gilbert,Maricopa,Vinyl,3738,Central,0.67,Square Feet,225885,261.98,Sold,8635836,Old Town,4,2,1,1,Carport,Detached,Fixed,Duplex,AZ,Flat,Public,1995
+Chandler,Pinal,Concrete,4436,Window Units,0.51,Square Feet,996209,131.95,Contingent,8809006,Uptown,3,5,1,1,Garage,Detached,Fixed,Single Family,FL,Flat,Septic,1987
+Gilbert,Pinal,Stone,4022,Central,0.6,Square Feet,641656,268.15,Contingent,2675843,Old Town,2,1,2,1,None,Detached,Negotiable,Townhouse,TX,Tile,None,1963
